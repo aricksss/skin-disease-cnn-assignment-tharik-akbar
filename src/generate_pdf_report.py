@@ -847,7 +847,7 @@ def build_pdf_report():
         "&bull; <b>Saved Model Checkpoints</b>: <code>skin_disease_cnn_assignment/models/</code> (<code>mobilenetv2_best.keras</code>, <code>resnet50_best.keras</code>, <code>densenet121_best.keras</code>)<br/>"
         "&bull; <b>Raw Metrics & Tables</b>: <code>skin_disease_cnn_assignment/results/metrics/</code> (CSV & JSON logs)<br/>"
         "&bull; <b>Dependencies</b>: Documented in <code>requirements.txt</code> under Python 3.12.14.<br/><br/>"
-        "<b>Source Code Repository:</b> <code>[INSERT SHAREABLE URL BEFORE SUBMISSION - e.g., GitHub or Google Drive link]</code>"
+        "<b>Source Code Repository:</b> <font color='#1a5276'><a href='https://github.com/aricksss/skin-disease-cnn-assignment-tharik-akbar'><u>https://github.com/aricksss/skin-disease-cnn-assignment-tharik-akbar</u></a></font>"
     )
     story.append(Paragraph(code_text, body_style))
 

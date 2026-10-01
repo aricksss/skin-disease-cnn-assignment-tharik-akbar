@@ -232,4 +232,4 @@ Every metric reported below is derived directly from the real experimental execu
 
 All metrics, histories, confusion matrices, and figures in this repository were generated through verifiable local code execution. No numbers or figures were fabricated.
 
-**Source Code Repository:** `[INSERT SHAREABLE URL BEFORE SUBMISSION - e.g., GitHub or Google Drive link]`
+**Source Code Repository:** [https://github.com/aricksss/skin-disease-cnn-assignment-tharik-akbar](https://github.com/aricksss/skin-disease-cnn-assignment-tharik-akbar)

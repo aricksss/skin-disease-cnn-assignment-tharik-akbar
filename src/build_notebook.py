@@ -309,7 +309,7 @@ All experimental code, trained model weights, evaluation logs, figures, and repo
 - **Checkpoints**: `skin_disease_cnn_assignment/models/` (`mobilenetv2_best.keras`, `resnet50_best.keras`, `densenet121_best.keras`)
 - **Metric Tables**: `skin_disease_cnn_assignment/results/metrics/`
 
-**Source Code Repository:** `[INSERT SHAREABLE URL BEFORE SUBMISSION - e.g., GitHub or Google Drive link]`"""))
+**Source Code Repository:** [https://github.com/aricksss/skin-disease-cnn-assignment-tharik-akbar](https://github.com/aricksss/skin-disease-cnn-assignment-tharik-akbar)"""))
 
     nb.cells = cells
     
