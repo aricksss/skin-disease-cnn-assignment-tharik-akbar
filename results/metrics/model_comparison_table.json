@@ -1,0 +1,44 @@
+[
+  {
+    "model": "mobilenetv2",
+    "total_parameters": 2428233,
+    "trainable_parameters": 167689,
+    "best_epoch": 9,
+    "training_time_seconds": 92.9,
+    "model_file_size_mb": 11.12,
+    "inference_latency_ms": 16.55,
+    "test_accuracy": 0.7008,
+    "macro_precision": 0.7311,
+    "macro_recall": 0.7111,
+    "macro_f1": 0.7112,
+    "weighted_f1": 0.6998
+  },
+  {
+    "model": "resnet50",
+    "total_parameters": 23859337,
+    "trainable_parameters": 267529,
+    "best_epoch": 12,
+    "training_time_seconds": 251.5,
+    "model_file_size_mb": 93.71,
+    "inference_latency_ms": 36.86,
+    "test_accuracy": 0.6929,
+    "macro_precision": 0.732,
+    "macro_recall": 0.7074,
+    "macro_f1": 0.7086,
+    "weighted_f1": 0.6933
+  },
+  {
+    "model": "densenet121",
+    "total_parameters": 7173961,
+    "trainable_parameters": 134409,
+    "best_epoch": 13,
+    "training_time_seconds": 268.24,
+    "model_file_size_mb": 29.86,
+    "inference_latency_ms": 50.8,
+    "test_accuracy": 0.6535,
+    "macro_precision": 0.7166,
+    "macro_recall": 0.6722,
+    "macro_f1": 0.6591,
+    "weighted_f1": 0.6386
+  }
+]

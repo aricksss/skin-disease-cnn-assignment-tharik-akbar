@@ -1,0 +1,212 @@
+{
+  "total_images": 876,
+  "total_classes": 9,
+  "classes": [
+    "Actinic keratosis",
+    "Atopic Dermatitis",
+    "Benign keratosis",
+    "Dermatofibroma",
+    "Melanocytic nevus",
+    "Melanoma",
+    "Squamous cell carcinoma",
+    "Tinea Ringworm Candidiasis",
+    "Vascular lesion"
+  ],
+  "corrupt_images_count": 0,
+  "corrupt_images": [],
+  "exact_duplicates_count": 33,
+  "duplicates": [
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_51.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_49.jpg",
+      "sha256": "6e6c89547c67fc4ce564c7312e92cae855ef69482b3ea3b9c739bb25b5e25f1f"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_14.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_14.jpg",
+      "sha256": "8756835a808b41799ac405ffb47cf400542e808ca2625f0dd3154fe385531334"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_15.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_15.jpg",
+      "sha256": "be78206a356b2d6c8d9ceb33f9a57dca88740446599e26ffeb7f772965e2ae0b"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_16.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_16.jpg",
+      "sha256": "bcf8193f91f816fad8765b930ba7b4fd1c80f7286e0a90a9f5a74511352522c3"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_17.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_17.jpg",
+      "sha256": "a071e39cf5f81884e84f53e9a8ac8b4f69dbcbc1ffc957c94073d0d373cb3802"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_18.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_18.jpg",
+      "sha256": "489a0439b5c7878aeda2d8f94fc842e2ee9974e1f7a835f833bc3bb6e492dba0"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_19.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_19.jpg",
+      "sha256": "3647eafda5848976734a61ed050a66fccbe0142ebb80d8395ad91d7e0ff12619"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_20.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_20.jpg",
+      "sha256": "e64b4f63d8fe3e41b6eaa56cf1e36ba3bc82b778fbc7f5845194f87a2b34f2bb"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_23.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_23.jpg",
+      "sha256": "e9b302de72ebee8eb2f5a0316c3969ebf7e3e5295706575f12d83205affa6154"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_24.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_24.jpg",
+      "sha256": "0ceb5385a0f81ab371f4fd091107337b54dde8b51b071fab225dd02536ac7aa0"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_25.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_25.jpg",
+      "sha256": "a79c4741a3be4ea48ac6fd95c0745b4688c8356732e38c56f8004edc4b683062"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_26.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_26.jpg",
+      "sha256": "252391199de14cf99c466e0ced7962815a807da72544b693540f216b8d52da74"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_27.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_27.jpg",
+      "sha256": "deceddceccebc61fc664185fe17322c7ab44242f9577db1ff3f2918fd6b6f16f"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_29.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_29.jpg",
+      "sha256": "4767fe9aae2a9853d44e0b3dabecd214ee59a23ef0a6409bcca39560100705b2"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_30.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_30.jpg",
+      "sha256": "61063e5e2425b3c4af9d4e8a3fbc48b9403bb3cf290864325a9b419e0e715ee1"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_35.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_35.jpg",
+      "sha256": "a50f479d12e795d572fa766ed1993bc8d9762ee13e5dbe15323e3661dcea4541"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_36.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_36.jpg",
+      "sha256": "cfb76da9183e6fc1a7b31aa4410fb306edf32452e9e7acfbfbbf54c4ef1974a2"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_39.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_39.jpg",
+      "sha256": "d409bed0cbe1211beee7c22994308e9f92073331c8406e9ebf62d353d6b43601"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_41.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_41.jpg",
+      "sha256": "e52cfeb271e7590cea2a8402b9948bbbb557464ed95a5a4522bee9e65e2b231e"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_42.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_42.jpg",
+      "sha256": "39b399701bc78d5decfe07cfbfd264b54df8047a36c79540467a4b7ea250a8e9"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_43.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_43.jpg",
+      "sha256": "47bc1f3609264bea9481cb65ecff979e2f2dd233d4491f8d45f09512a861b08d"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Atopic Dermatitis\\1_44.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Atopic Dermatitis\\1_44.jpg",
+      "sha256": "1de43db57812b57b13f3ff645797e22cee7908ca09eeeffec3e4b586e8031955"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Tinea Ringworm Candidiasis\\aug_0_Cv-1.png",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Tinea Ringworm Candidiasis\\aug_0_Cv-1.png",
+      "sha256": "c6980d3d83f9a8322d6db178ff6a224c2f7362d07a8ef5f3f3a856573796ec49"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Tinea Ringworm Candidiasis\\aug_0_Daad-khujli-kya-hai-or-daad-ka-treatment-ilaj-in-Hindi.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Tinea Ringworm Candidiasis\\aug_0_Daad-khujli-kya-hai-or-daad-ka-treatment-ilaj-in-Hindi.jpg",
+      "sha256": "0f8651e0362f2d58ac494479333c3760d25e39f70b4808a02af8e3f41b507c6e"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Tinea Ringworm Candidiasis\\aug_0_Direct-microscopic-examination-revealed-endothrix-infection-with-chains-of-conidia-in-and_Q320.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Tinea Ringworm Candidiasis\\aug_0_Direct-microscopic-examination-revealed-endothrix-infection-with-chains-of-conidia-in-and_Q320.jpg",
+      "sha256": "aa43d222155fe335b3773f48685662a8d7d298f5f229ba9544ff5b97e51d139b"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Tinea Ringworm Candidiasis\\aug_0_IJD-62-227-g006.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Tinea Ringworm Candidiasis\\aug_0_IJD-62-227-g006.jpg",
+      "sha256": "7619bf91d41f7ca0bc6ed84f48c57841e1a898161381c2fb8226d0c322128954"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Tinea Ringworm Candidiasis\\aug_0_Rid-of-Ringworm-HS001.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Tinea Ringworm Candidiasis\\aug_0_Rid-of-Ringworm-HS001.jpg",
+      "sha256": "8e0a114ae7f81c37bf470be668ccdfc6808cc42d2e37a3d604b20426b6857a0e"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Tinea Ringworm Candidiasis\\aug_0_dermatomycosis-corporis-3.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Tinea Ringworm Candidiasis\\aug_0_dermatomycosis-corporis-3.jpg",
+      "sha256": "96c6314000b100d7f35e7be2f12400bda48d16c2fe6d9b9df3b50be741f75c70"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Tinea Ringworm Candidiasis\\aug_0_gWKFl81gOGebKIRUWg13lgp-O7X7GXiX1IOOqXBw-f2w.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Tinea Ringworm Candidiasis\\aug_0_gWKFl81gOGebKIRUWg13lgp-O7X7GXiX1IOOqXBw-f2w.jpg",
+      "sha256": "5c2913996d2af2b290a6a90581823569cce5f124af42aba1222321da121fbd66"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Tinea Ringworm Candidiasis\\aug_0_gr6.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Tinea Ringworm Candidiasis\\aug_0_gr6.jpg",
+      "sha256": "227724ebc14907ced3fda42ddc0ae3ef20c93dc40c2fb6ec7e15d81b224b41bc"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Tinea Ringworm Candidiasis\\aug_0_image.png",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Tinea Ringworm Candidiasis\\aug_0_image.png",
+      "sha256": "d3aa5a9d12b5dbafea2669bf8f24649c6c7aa3bfe677e4724ee494a8419d1000"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Tinea Ringworm Candidiasis\\aug_0_nejmicm1013871_f1.jpeg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Tinea Ringworm Candidiasis\\aug_0_nejmicm1013871_f1.jpeg",
+      "sha256": "494d129ec52a58c07641df84f3671fc0b29eed13ed3be61552bc49d87c3b0b5a"
+    },
+    {
+      "duplicate_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\val\\Tinea Ringworm Candidiasis\\aug_0_pha-259018.jpg",
+      "original_file": "G:\\My Drive\\Document\\S2 MSIT\\Deep Learning\\Assigment 1\\Skin Disease\\skin_disease_cnn_assignment\\data\\raw\\train\\Tinea Ringworm Candidiasis\\aug_0_pha-259018.jpg",
+      "sha256": "eb4557c50e8ddb8b9381199851ccdf3cba396e65e89eacdb33baa90862eccfe8"
+    }
+  ],
+  "image_resolution_summary": {
+    "min_width": 72,
+    "max_width": 1200,
+    "mean_width": 692.1,
+    "min_height": 76,
+    "max_height": 1280,
+    "mean_height": 521.0,
+    "color_modes": {
+      "RGB": 876
+    },
+    "extensions": {
+      ".jpg": 852,
+      ".png": 21,
+      ".jpeg": 3
+    }
+  },
+  "class_totals": {
+    "Atopic Dermatitis": 102,
+    "Actinic keratosis": 100,
+    "Benign keratosis": 100,
+    "Dermatofibroma": 100,
+    "Melanocytic nevus": 100,
+    "Melanoma": 100,
+    "Squamous cell carcinoma": 100,
+    "Vascular lesion": 100,
+    "Tinea Ringworm Candidiasis": 74
+  }
+}

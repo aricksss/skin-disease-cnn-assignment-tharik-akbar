@@ -1,0 +1,61 @@
+{
+  "model_name": "mobilenetv2",
+  "total_test_samples": 127,
+  "total_misclassified": 38,
+  "error_rate": 0.2992,
+  "strongest_classes_f1": [
+    [
+      "Tinea Ringworm Candidiasis",
+      0.9473684210526315
+    ],
+    [
+      "Benign keratosis",
+      0.896551724137931
+    ],
+    [
+      "Vascular lesion",
+      0.8666666666666667
+    ]
+  ],
+  "weakest_classes_f1": [
+    [
+      "Melanoma",
+      0.5714285714285714
+    ],
+    [
+      "Actinic keratosis",
+      0.5
+    ],
+    [
+      "Melanocytic nevus",
+      0.5
+    ]
+  ],
+  "top_confusion_pairs": [
+    {
+      "class_name": "Actinic keratosis",
+      "predicted_class": "Squamous cell carcinoma",
+      "count": 6
+    },
+    {
+      "class_name": "Dermatofibroma",
+      "predicted_class": "Squamous cell carcinoma",
+      "count": 3
+    },
+    {
+      "class_name": "Melanoma",
+      "predicted_class": "Melanocytic nevus",
+      "count": 3
+    },
+    {
+      "class_name": "Melanocytic nevus",
+      "predicted_class": "Squamous cell carcinoma",
+      "count": 3
+    },
+    {
+      "class_name": "Melanocytic nevus",
+      "predicted_class": "Melanoma",
+      "count": 3
+    }
+  ]
+}

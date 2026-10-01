@@ -1,0 +1,10 @@
+,Actinic keratosis,Atopic Dermatitis,Benign keratosis,Dermatofibroma,Melanocytic nevus,Melanoma,Squamous cell carcinoma,Tinea Ringworm Candidiasis,Vascular lesion
+Actinic keratosis,8,0,0,3,0,0,4,0,0
+Atopic Dermatitis,0,12,0,0,0,0,0,0,0
+Benign keratosis,2,0,12,0,0,0,1,0,0
+Dermatofibroma,1,0,0,14,0,0,0,0,0
+Melanocytic nevus,0,0,0,2,7,4,2,0,0
+Melanoma,2,0,2,0,3,7,1,0,0
+Squamous cell carcinoma,4,0,0,4,0,0,7,0,0
+Tinea Ringworm Candidiasis,0,1,0,0,0,0,0,9,0
+Vascular lesion,2,0,0,1,0,0,0,0,12

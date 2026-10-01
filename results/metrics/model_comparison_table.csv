@@ -1,0 +1,4 @@
+model,total_parameters,trainable_parameters,best_epoch,training_time_seconds,model_file_size_mb,inference_latency_ms,test_accuracy,macro_precision,macro_recall,macro_f1,weighted_f1
+mobilenetv2,2428233,167689,9,92.9,11.12,16.55,0.7008,0.7311,0.7111,0.7112,0.6998
+resnet50,23859337,267529,12,251.5,93.71,36.86,0.6929,0.732,0.7074,0.7086,0.6933
+densenet121,7173961,134409,13,268.24,29.86,50.8,0.6535,0.7166,0.6722,0.6591,0.6386

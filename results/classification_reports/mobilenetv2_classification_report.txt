@@ -1,0 +1,17 @@
+CLASSIFICATION REPORT: MOBILENETV2
+======================================================================
+                            precision    recall  f1-score   support
+
+         Actinic keratosis     0.6667    0.4000    0.5000        15
+         Atopic Dermatitis     0.7692    0.8333    0.8000        12
+          Benign keratosis     0.9286    0.8667    0.8966        15
+            Dermatofibroma     0.7333    0.7333    0.7333        15
+         Melanocytic nevus     0.5385    0.4667    0.5000        15
+                  Melanoma     0.6154    0.5333    0.5714        15
+   Squamous cell carcinoma     0.4615    0.8000    0.5854        15
+Tinea Ringworm Candidiasis     1.0000    0.9000    0.9474        10
+           Vascular lesion     0.8667    0.8667    0.8667        15
+
+                  accuracy                         0.7008       127
+                 macro avg     0.7311    0.7111    0.7112       127
+              weighted avg     0.7196    0.7008    0.6998       127

@@ -1,0 +1,46 @@
+# ====================================================================
+# Git Ignore Configuration for Skin Disease CNN Assignment
+# ====================================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter & testing caches
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Raw dataset (downloaded automatically or manually from Kaggle)
+data/raw/
+*.zip
+*.tar.gz
+
+# Pretrained model checkpoints (ResNet50 is ~93.7 MB; exceeds recommended GitHub file limits)
+models/*.keras
+models/*.h5
+models/*.weights.h5
+
+# Local logs & environment variables
+*.log
+.env
+.env.local
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary visual verification artifacts
+results/figures/pdf_pages/
+
+# Large compiled PDF report (generate locally via python src/generate_pdf_report.py)
+*.pdf

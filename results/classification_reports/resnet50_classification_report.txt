@@ -1,0 +1,17 @@
+CLASSIFICATION REPORT: RESNET50
+======================================================================
+                            precision    recall  f1-score   support
+
+         Actinic keratosis     0.4211    0.5333    0.4706        15
+         Atopic Dermatitis     0.9231    1.0000    0.9600        12
+          Benign keratosis     0.8571    0.8000    0.8276        15
+            Dermatofibroma     0.5833    0.9333    0.7179        15
+         Melanocytic nevus     0.7000    0.4667    0.5600        15
+                  Melanoma     0.6364    0.4667    0.5385        15
+   Squamous cell carcinoma     0.4667    0.4667    0.4667        15
+Tinea Ringworm Candidiasis     1.0000    0.9000    0.9474        10
+           Vascular lesion     1.0000    0.8000    0.8889        15
+
+                  accuracy                         0.6929       127
+                 macro avg     0.7320    0.7074    0.7086       127
+              weighted avg     0.7169    0.6929    0.6933       127

@@ -1,0 +1,38 @@
+{
+  "mobilenetv2": {
+    "model_name": "mobilenetv2",
+    "best_epoch": 9,
+    "total_epochs_trained": 14,
+    "training_time_seconds": 92.9,
+    "best_val_loss": 0.7124,
+    "best_val_accuracy": 0.7302,
+    "best_train_loss": 0.3832,
+    "best_train_accuracy": 0.8644,
+    "total_parameters": 2428233,
+    "trainable_parameters": 167689
+  },
+  "resnet50": {
+    "model_name": "resnet50",
+    "best_epoch": 12,
+    "total_epochs_trained": 15,
+    "training_time_seconds": 251.5,
+    "best_val_loss": 0.6305,
+    "best_val_accuracy": 0.8333,
+    "best_train_loss": 0.2447,
+    "best_train_accuracy": 0.9136,
+    "total_parameters": 23859337,
+    "trainable_parameters": 267529
+  },
+  "densenet121": {
+    "model_name": "densenet121",
+    "best_epoch": 13,
+    "total_epochs_trained": 15,
+    "training_time_seconds": 268.24,
+    "best_val_loss": 0.7362,
+    "best_val_accuracy": 0.6984,
+    "best_train_loss": 0.3518,
+    "best_train_accuracy": 0.8746,
+    "total_parameters": 7173961,
+    "trainable_parameters": 134409
+  }
+}

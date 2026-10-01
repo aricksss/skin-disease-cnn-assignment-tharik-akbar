@@ -1,0 +1,10 @@
+class_name,Train (70%),Val (15%),Test (15%),Total (100%)
+Actinic keratosis,70,15,15,100
+Atopic Dermatitis,56,12,12,80
+Benign keratosis,70,15,15,100
+Dermatofibroma,70,15,15,100
+Melanocytic nevus,70,15,15,100
+Melanoma,70,15,15,100
+Squamous cell carcinoma,70,15,15,100
+Tinea Ringworm Candidiasis,44,9,10,63
+Vascular lesion,70,15,15,100

@@ -1,0 +1,10 @@
+class_name,train,val,Total
+Atopic Dermatitis,81,21,102
+Actinic keratosis,80,20,100
+Benign keratosis,80,20,100
+Dermatofibroma,80,20,100
+Melanocytic nevus,80,20,100
+Melanoma,80,20,100
+Squamous cell carcinoma,80,20,100
+Vascular lesion,80,20,100
+Tinea Ringworm Candidiasis,55,19,74
