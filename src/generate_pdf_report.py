@@ -65,7 +65,6 @@ class NumberedCanvas(canvas.Canvas):
         self.setStrokeColor(colors.HexColor("#CBD5E0"))
         self.setLineWidth(0.5)
         self.line(54, 48, 612 - 54, 48)
-        self.drawString(54, 36, "S2 Informatics — Verifiable Academic Experimental Report")
         self.drawRightString(612 - 54, 36, page_str)
         self.restoreState()
 
